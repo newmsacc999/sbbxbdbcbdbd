@@ -1,0 +1,17 @@
+{
+  "status": "ACTIVE",
+  "kill_switch": false,
+  "message": "سرویس فعال است",
+  "min_version": "2.3.0",
+  "banner": {
+    "active": false,
+    "text": "",
+    "link": ""
+  },
+  "update": {
+    "latest_version": "2.3.38",
+    "version_code": 778,
+    "changelog": "Clean MCI/Irancell connectivity update & Native server pool refresh",
+    "download_url": "https://relevant-string-sources-opens.trycloudflare.com/download/smartvpn.apk"
+  }
+}
